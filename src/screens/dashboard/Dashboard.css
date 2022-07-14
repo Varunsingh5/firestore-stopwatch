@@ -1,0 +1,55 @@
+.side-bar1{
+  display: flex;
+   margin-left:30px;
+    align-items: center;
+     margin-top: 50px 
+}
+
+.name{
+  margin-left: 10px;
+   margin-top: 10px;
+
+}
+.iconss{
+  font-size: 25px; 
+  margin-left: 50px;
+   color: blanchedalmond;
+}
+.side-bar{
+  background: black;
+   color: white ;
+    width: 20%; 
+    height: 150vh;
+
+}
+.Dashboard1
+{
+  width: 80% ;
+  height: 150vh ;
+  background-size: cover;
+  background-image: url("https://img.freepik.com/free-photo/flat-lay-desk-arrangement-with-copy-space_23-2148928165.jpg?size=626&ext=jpg");
+}
+
+.dashboard {
+    height: 100vh;
+    width: 100vw;
+  
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .dashboard__container {
+    text-align: center;
+    flex-direction: column;
+   
+    
+  }
+  
+  .dashboard__btn {
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    background-color: black;
+  }

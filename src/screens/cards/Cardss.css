@@ -1,0 +1,26 @@
+.card{
+  
+    background-size: cover;
+        background-image: url("https://img.freepik.com/free-photo/flat-lay-desk-arrangement-with-copy-space_23-2148928165.jpg?size=626&ext=jpg");
+}
+.btn-back {
+    font-size: 20px;
+     margin-top: 3px;
+      margin-left: 4px;
+    background-color: black;
+    color: white; 
+    border-color: black;
+}
+.date{
+    padding-top: 50px;
+     margin-left: 40%;
+}
+.cards{
+    margin-top: 4%;
+     display: flex;
+      margin-left: 25%; 
+}
+.cards1{
+    background-color: "blanchedalmond"
+}
+

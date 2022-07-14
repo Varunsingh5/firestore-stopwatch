@@ -1,0 +1,23 @@
+.dashboard__btn{
+    margin-left: 86%;
+}
+
+.dashboard1{
+     display: flex;
+     margin-left: 30px;
+       align-items: center;
+        margin-top: 60px ;
+}
+.Desk{
+    margin-left: 40%;
+     margin-bottom: 40px;
+}
+.avatar{
+    margin-left: 1%
+}
+.online1 {
+    margin-left: 10px;
+}
+.val {
+    margin-bottom:  30px;
+}
